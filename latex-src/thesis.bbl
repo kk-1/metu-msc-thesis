@@ -1,0 +1,1256 @@
+\begin{thebibliography}{100}
+
+\bibitem{abuali2018}
+N.~Abuali et~al.
+\newblock {\em {Performance Evaluation of Routing Protocols in Electromagnetic
+  Nanonetworks}}.
+\newblock {IEEE Access}, {6}:{35908--35914}, {2018}.
+\newblock \url{http://dx.doi.org/10.1109/ACCESS.2018.2845305}.
+
+\bibitem{adere2010}
+K.~Adere and G.~R. Murthy.
+\newblock {\em {Solving the Hidden and Exposed Terminal problems Using
+  Directional-Antenna Based MAC Protocol for Wireless Sensor Networks}}.
+\newblock In {2010 7$^{th}$ International Conference on Wireless and Optical
+  Communications Networks - (WOCN)}, pages {1--5}, {2010}.
+\newblock \url{http://dx.doi.org/10.1109/WOCN.2010.5587352}.
+
+\bibitem{afsana2018}
+F.~Afsana et~al.
+\newblock {\em {An Energy Conserving Routing Scheme for Wireless Body Sensor
+  Nanonetwork Communication}}.
+\newblock {IEEE Access}, {6}:{9186--9200}, {2018}.
+\newblock \url{http://dx.doi.org/10.1109/ACCESS.2018.2789437}.
+
+\bibitem{akbar2015t}
+A.~Akbar.
+\newblock {\em {Energy Efficient Scheduled Directional Medium Access Control
+  Protocol For Wireless Sensor Networks}}.
+\newblock Master's thesis, {Ryerson University}, Canada, 2015.
+\newblock
+  \url{https://digital.library.ryerson.ca/islandora/object/RULA%3A3315/datastream/OBJ/download/Energy_efficient_scheduled_directional_medium_access_control_protocol_for_wireless_sensor_networks.pdf}.
+
+\bibitem{akbar2015}
+A.~Akbar et~al.
+\newblock {\em {Energy-Efficient Scheduled Directional Medium Access Control
+  Protocol For Wireless Sensor Networks}}.
+\newblock In {2015 IEEE International Conference on Communications (ICC)},
+  pages {6258--6264}, {2015}.
+\newblock \url{https://doi.org/10.1109/ICC.2015.7249321}.
+
+\bibitem{akbari2014}
+S.~Akbari.
+\newblock {\em {Energy harvesting for wireless sensor networks review}}.
+\newblock In {2014 Federated Conference on Computer Science and Information
+  Systems}, pages {987--992}, {2014}.
+\newblock \url{https://doi.org/10.15439/2014F85}.
+
+\bibitem{ilhan2016}
+M.~{\.I}. Akbaş et~al.
+\newblock {\em Molecular geometry inspired positioning for aerial networks}.
+\newblock {Computer Networks}, 98:72--88, 2016.
+\newblock \url{https://doi.org/10.1016/j.comnet.2016.02.001}.
+
+\bibitem{akhtar2015}
+F.~Akhtar and M.~H. Rehmani.
+\newblock {\em {Energy replenishment using renewable and traditional energy
+  resources for sustainable wireless sensor networks: A review}}.
+\newblock {Renewable and Sustainable Energy Reviews}, {45}:{769--784}, {2015}.
+\newblock \url{https://doi.org/10.1016/j.rser.2015.02.021}.
+
+\bibitem{akyildiz2002}
+I.~F. Akyildiz et~al.
+\newblock {\em {A survey on sensor networks}}.
+\newblock {IEEE Communications Magazine}, {40}({8}):{102--114}, {2002}.
+\newblock \url{https://doi.org/10.1109/MCOM.2002.1024422}.
+
+\bibitem{akyildiz2002-2}
+I.~F. Akyildiz et~al.
+\newblock {\em {Wireless sensor networks: a survey}}.
+\newblock {Computer Networks}, {38}({4}):{393--422}, {2002}.
+\newblock \url{https://doi.org/10.1016/S1389-1286(01)00302-4}.
+
+\bibitem{akyildiz2008}
+I.~F. Akyildiz et~al.
+\newblock {\em {Nanonetworks: A New Comm. Paradigm}}.
+\newblock {Computer Networks: The Int. Journal of Computer and
+  Telecommunications Networking}, 52(12):2260--2279, 2008.
+\newblock \url{https://doi.org/10.1016/j.comnet.2008.04.001}.
+
+\bibitem{akyildiz2014}
+I.~F. Akyildiz et~al.
+\newblock {\em {Terahertz band: Next frontier for wireless communications}}.
+\newblock {Physical Communication}, {12}:{16--32}, {2014}.
+\newblock \url{https://doi.org/10.1016/j.phycom.2014.01.006}.
+
+\bibitem{akyildiz2010-2}
+I.~F. Akyildiz and J.~M. Jornet.
+\newblock {\em Electromagnetic wireless nanosensor networks}.
+\newblock {Nano Comm. Networks}, 1(1):3--19, 2010.
+\newblock \url{https://doi.org/10.1016/j.nancom.2010.04.001}.
+
+\bibitem{akyildiz2010-1}
+I.~F. Akyildiz and J.~M. Jornet.
+\newblock {\em {The Internet of nano-things}}.
+\newblock {IEEE Wireless Comm.}, 17(6):58--63, 2010.
+\newblock \url{https://doi.org/10.1109/MWC.2010.5675779}.
+
+\bibitem{akyildiz2010-3}
+I.~F. Akyildiz and M.~C. Vuran.
+\newblock {\em {Wireless Sensor Networks}}.
+\newblock {John Wiley \& Sons, Inc.}, {2010}.
+
+\bibitem{kamal2004}
+J.~N. Al-Karaki and A.~E. Kamal.
+\newblock {\em {Routing techniques in wireless sensor networks: a survey}}.
+\newblock {IEEE Wireless Comm.}, {11}({6}):{6--28}, {2004}.
+\newblock \url{https://doi.org/10.1109/MWC.2004.1368893}.
+
+\bibitem{ali2013}
+M.~Ali and B.~A. Khawaja.
+\newblock {\em {Dual BandMicrostrip patch antenna array for next generation
+  wireless sensor network applications}}.
+\newblock In {Proceedings of 2013 International Conference on Sensor Network
+  Security Technology and Privacy Communication System}, pages {39--43},
+  {2013}.
+\newblock \url{http://dx.doi.org/10.1109/SNS-PCS.2013.6553831}.
+
+\bibitem{almedia2016}
+F.~R. Almeida et~al.
+\newblock {\em {Fractal Clustering and similarity measure: Two new approaches
+  for reducing energy consumption in Wireless Sensor Networks}}.
+\newblock In {2016 8$^{th}$ International Conference on Ubiquitous and Future
+  Networks (ICUFN)}, pages {288--293}, {2016}.
+\newblock \url{http://dx.doi.org/10.1109/ICUFN.2016.7537034}.
+
+\bibitem{anastasi2009}
+G.~Anastasi et~al.
+\newblock {\em {Energy conservation in wireless sensor networks: A survey}}.
+\newblock {Ad Hoc Networks}, {7}({3}):{537--568}, {2009}.
+\newblock \url{https://doi.org/10.1016/j.adhoc.2008.06.003}.
+
+\bibitem{angelopoulos2011}
+C.~M. Angelopoulos et~al.
+\newblock {\em {A New Random Walk for Efficient Data Collection in Sensor
+  Networks}}.
+\newblock In {Proceedings of the 9$^{th}$ ACM International Symposium on
+  Mobility Management and Wireless Access}, pages {53--60}, {2011}.
+\newblock \url{https://doi.org/10.1145/2069131.2069141}.
+
+\bibitem{balanis2016}
+C.~A. Balanis.
+\newblock {\em {Antenna Theory: Analysis and Design, 4$^{th}$ ed.}}
+\newblock {Wiley}, {2016}.
+
+\bibitem{bathula2007}
+B.~G. Bathula.
+\newblock {\em {High Performance Communciation Networks - 2007}}.
+\newblock {Lecture from The Columbia University, Department of Electrical
+  Engineering}.
+\newblock
+  {\url{http://www.ee.columbia.edu/~bbathula/courses/HPCN/lecture03.pdf}}.
+
+\bibitem{bazzi2015}
+H.~S. Bazzi et~al.
+\newblock {\em {Classification of routing protocols in wireless sensor
+  network}}.
+\newblock In {Computer Vision and Image Analysis Applications (ICCVIA), 2015
+  Int. Conf. on}, pages {1--5}, {2015}.
+\newblock \url{https://doi.org/10.1109/ICCVIA.2015.7351790}.
+
+\bibitem{bell2009}
+J.~Bell and B.~Stevens.
+\newblock {\em {A survey of known results and research areas for n-queens}}.
+\newblock {Discrete Mathematics}, {30}9({1}):{1--31}, {2009}.
+\newblock \url{https://doi.org/10.1016/j.disc.2007.12.043}.
+
+\bibitem{benaddy2017}
+M.~Benaddy et~al.
+\newblock {\em {A Mutlipath Routing Algorithm for Wireless Sensor Networks
+  Under Distance and Energy Consumption Constraints for Reliable Data
+  Transmission}}.
+\newblock {International Journal of Sensors and Sensor Networks. Special
+  Issue:Smart Cities Using a Wireless Sensor Networks}, {5}({5-1}):{32--35},
+  {2017}.
+\newblock
+  {\url{http://article.sciencepublishinggroup.com/pdf/10.11648.j.ijssn.s.2017050501.16.pdf}}.
+
+\bibitem{bennani2016}
+H.~Bennani et~al.
+\newblock {\em {Achieving QoS in Virtual MIMO systems: a satisfaction
+  equilibrium analysis}}.
+\newblock {EURASIP Journal on Wireless Communications and Networking},
+  {2016}({1}):{126}, {2016}.
+\newblock \url{https://doi.org/10.1186/s13638-016-0612-6}.
+
+\bibitem{atheory-imp}
+P.~J. Bevelacqua.
+\newblock {\em {Antenna Impedance}}, {2016}.
+\newblock {\url{http://www.antenna-theory.com/basics/impedance.php}, online;
+  accessed 5-September-2018}.
+
+\bibitem{atheory-s11}
+P.~J. Bevelacqua.
+\newblock {\em {S-Parameters}}, {2016}.
+\newblock {\url{http://www.antenna-theory.com/definitions/sparameters.php},
+  online; accessed 5-September-2018}.
+
+\bibitem{atheory-vswr}
+P.~J. Bevelacqua.
+\newblock {\em {VSWR (Voltage Standing Wave Ratio)}}, {2016}.
+\newblock {\url{http://www.antenna-theory.com/basics/efficiency.php}, online;
+  accessed 5-September-2018}.
+
+\bibitem{bian2009}
+Q.~Bian.
+\newblock {\em {Performance Improvement Of Ad Hoc Networks Using Directional
+  Antennas And Power Control}}.
+\newblock Master's thesis, {Dept. of Computer Science, University of Québec,
+  Montréal}, Canada, December 2009.
+\newblock \url{http://archipel.uqam.ca/2596/1/M11194.pdf}.
+
+\bibitem{bomnale2018}
+A.~Bomnale and S.~Malgaonkar.
+\newblock {\em {Power optimization in wireless sensor networks}}.
+\newblock In {2018 International Conference on Communication information and
+  Computing Technology (ICCICT)}, pages {1--6}, {2018}.
+\newblock \url{http://dx.doi.org/10.1109/ICCICT.2018.8325870}.
+
+\bibitem{bordoloi2013}
+A.~K. Bordoloi.
+\newblock {\em {Microstrip Patch Antennas - Some Techniques On Size Reduction
+  And Tuning}}.
+\newblock PhD thesis, {Department of Electronics and Communication Engineering,
+  Tezpur University}, {India}, {2013}.
+\newblock \url{http://hdl.handle.net/10603/100309}.
+
+\bibitem{boyinbode2010}
+O.~Boyinbode et~al.
+\newblock {\em {A Survey on Clustering Algorithms for Wireless Sensor
+  Networks}}.
+\newblock In {2010 13$^{th}$ International Conference on Network-Based
+  Information Systems}, pages {358--364}, {2010}.
+\newblock \url{http://dx.doi.org/10.1109/NBiS.2010.59}.
+
+\bibitem{callaway2004}
+E.~H. Callaway, editor.
+\newblock {\em {Wireless Sensor Networks, Architecture and Protocols}}.
+\newblock {Auerbach}, 2004.
+
+\bibitem{carrano2014}
+R.~C. Carrano et~al.
+\newblock {\em {Survey and Taxonomy of Duty Cycling Mechanisms in Wireless
+  Sensor Networks}}.
+\newblock {IEEE Communications Surveys Tutorials}, {16}({1}):{181--194},
+  {2014}.
+\newblock \url{http://dx.doi.org/10.1109/SURV.2013.052213.00116}.
+
+\bibitem{chakravarthy2016}
+S.~S. Chakravarthy et~al.
+\newblock {\em {Comparative study on different feeding techniques of
+  rectangular patch antenna}}.
+\newblock In {2016 13$^{th}$ International Conference on Wireless and Optical
+  Communications Networks (WOCN)}, pages {1--6}, {2016}.
+\newblock \url{http://dx.doi.org/110.1109/WOCN.2016.7759032}.
+
+\bibitem{choudhury2007}
+R.~R. Choudhury.
+\newblock {\em {Spotlight: Exploiting Smart Antennas for Future Wireless
+  Networks}}.
+\newblock {Talk at Cisco, San Jose, June 2007}.
+\newblock {\url{http://synrg.csl.illinois.edu/ppts/cisco-talk.pdf}}.
+
+\bibitem{choudhury2006}
+R.~R. Choudhury et~al.
+\newblock {\em {On designing MAC protocols for wireless networks using
+  directional antennas}}.
+\newblock {IEEE Transactions on Mobile Computing}, {5}({5}):{477--491}, {2006}.
+\newblock \url{http://dx.doi.org/10.1109/TMC.2006.69}.
+
+\bibitem{cisco}
+{CISCO}.
+\newblock {\em {Omni Antenna vs. Directional Antenna}}.
+\newblock {CISCO Troubleshooting TechNotes}.
+\newblock
+  {\url{https://www.cisco.com/c/en/us/support/docs/wireless-mobility/wireless-lan-wlan/82068-omni-vs-direct.html},
+  online; accessed: 23-August-2018}.
+
+\bibitem{corderio2006}
+C.~M. Corderio and D.~P. Agrawal, editors.
+\newblock {\em {Ad Hoc \& Sensor Networks Theory And Applications}}.
+\newblock {World Scientific}, {2006}.
+
+\bibitem{serrano2017}
+D.~Correas-Serrano and J.~S. Gomez-Diaz.
+\newblock {\em {Graphene-based Antennas for Terahertz Systems: A Review}}.
+\newblock {ArXiv e-prints}, {2017}.
+\newblock \url{https://arxiv.org/abs/1704.00371v2}.
+
+\bibitem{curiac2016}
+D.-I. Curiac.
+\newblock {\em {Wireless Sensor Network Security Enhancement Using Directional
+  Antennas: State of the Art and Research Challenges}}.
+\newblock {Sensors}, {16}({4}):{488--502}, {2016}.
+\newblock \url{http://doi.org/10.3390/s16040488}.
+
+\bibitem{dai2011}
+H.-N. Dai et~al.
+\newblock {\em {An overview of using directional antennas in wireless
+  networks}}.
+\newblock {International Journal of Communication Systems},
+  {26}({4}):{413--448}, {2011}.
+\newblock \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/dac.1348}.
+
+\bibitem{deegwal2015}
+J.~K. Deegwal.
+\newblock {\em {Design and performance evaluation of various Microstrip
+  Antennas}}.
+\newblock PhD thesis, {Department of Electronics and Communications
+  Engineering, Suresh Gyan Vihar University}, {India}, {2015}.
+\newblock \url{http://hdl.handle.net/10603/103082}.
+
+\bibitem{ditzel2007}
+M.~Ditzel et~al.
+\newblock {\em {Power-Aware Architecting for data-dominated applications}}.
+\newblock {Springer}, {2007}.
+
+\bibitem{doddapaneni2015}
+K.~Doddapaneni et~al.
+\newblock {\em {Packet Arrival Analysis in Wireless Sensor Networks}}.
+\newblock In {2015 IEEE 29$^{th}$ International Conference on Advanced
+  Information Networking and Applications Workshops}, pages {164--169}, {2015}.
+\newblock \url{http://dx.doi.org/10.1109/WAINA.2015.101}.
+
+\bibitem{energizere91}
+Energizer.
+\newblock {\em {ENERGIZER E91A}}.
+\newblock {Product Datasheet}.
+\newblock {\url{http://data.energizer.com/pdfs/e91.pdf}, online; accessed:
+  28-August-2018}.
+
+\bibitem{fang2017}
+D.~Fang.
+\newblock {\em {Antenna Theory and Microstrip Antennas}}.
+\newblock {Taylor \& Francis}, {2017}.
+
+\bibitem{farooq2011}
+M.~O. Farooq and T.~Kunz.
+\newblock {\em {Operating Systems for Wireless Sensor Networks: A Survey}}.
+\newblock {Sensors}, {11}({6}):{5900--5930}, {2011}.
+\newblock \url{http://dx.doi.org/10.3390/s110605900}.
+
+\bibitem{felemban2010}
+E.~Felemban et~al.
+\newblock {\em {SAMAC: A Cross-Layer Communication Protocol for Sensor Networks
+  with Sectored Antennas}}.
+\newblock {IEEE Transactions on Mobile Computing}, {9}({8}):{1072--1088},
+  {2010}.
+\newblock \url{http://dx.doi.org/10.1109/TMC.2010.61}.
+
+\bibitem{ferreira2016}
+J.~F.~M. Ferreira.
+\newblock {\em {Study and design of antennas for WLAN MIMO applications}}.
+\newblock Master's thesis, {Dept. of Electrical and Computer Engineering,
+  Técnico Lisboa}, Portugal, November 2016.
+\newblock
+  \url{https://fenix.tecnico.ulisboa.pt/downloadFile/1407770020545567/Dissertacao%20Joao%20Ferreira.pdf}.
+
+\bibitem{fujimoto2015}
+T.~Fujimoto et~al.
+\newblock {\em {Circularly polarized small microstrip antenna for wireless
+  sensor network}}.
+\newblock In {2015 International Symposium on Antennas and Propagation (ISAP)},
+  pages {1--2}, {2015}.
+
+\bibitem{gavoille2001}
+C.~Gavoille and M.~Gengler.
+\newblock {\em {Space-Efficiency for Routing Schemes of Stretch Factor Three}}.
+\newblock {Journal of Parallel and Distributed Computing},
+  {61}({5}):{679--687}, {2001}.
+\newblock \url{https://doi.org/10.1006/jpdc.2000.1705}.
+
+\bibitem{georgiou2015}
+O.~Georgiou et~al.
+\newblock {\em {Directional antennas improve the link-connectivity of
+  interference limited ad hoc networks}}.
+\newblock In {2015 IEEE 26$^{th}$ Annual International Symposium on Personal,
+  Indoor, and Mobile Radio Communications (PIMRC)}, pages {1311--1316}, {2015}.
+\newblock \url{https://doi.org/10.1109/PIMRC.2015.7343501}.
+
+\bibitem{giorgetti2007}
+G.~Giorgetti et~al.
+\newblock {\em {Exploiting Low-Cost Directional Antennas in 2.4 GHz IEEE
+  802.15.4 Wireless Sensor Networks}}.
+\newblock In {2007 European Conference on Wireless Technologies}, pages
+  {217--220}, {2007}.
+\newblock \url{http://dx.doi.org/10.1109/ECWT.2007.4403985}.
+
+\bibitem{gossain2004}
+H.~Gossain et~al.
+\newblock {\em {The Deafness Problems and Solutions in Wireless Ad Hoc Networks
+  using Directional Antennas}}.
+\newblock In {IEEE Global Telecommunications Conference Workshops, 2004.
+  GlobeCom Workshops 2004.}, pages {108--113}, {2004}.
+\newblock \url{http://dx.doi.org/10.1109/GLOCOMW.2004.1417558}.
+
+\bibitem{gupta2000}
+P.~Gupta and P.~R. Kumar.
+\newblock {\em {The capacity of wireless networks}}.
+\newblock {IEEE Transactions on Information Theory}, {46}({2}):{388--404},
+  {2000}.
+\newblock \url{http://dx.doi.org/10.1109/18.825799}.
+
+\bibitem{hall1988}
+P.~S. Hall and C.~M. Hall.
+\newblock {\em {Coplanar corporate feed effects in microstrip patch array
+  design}}.
+\newblock {IEE Proceedings H - Microwaves, Antennas and Propagation},
+  {135}({3}):{180--186}, {1988}.
+\newblock \url{http://dx.doi.org/10.1049/ip-h-2.1988.0038}.
+
+\bibitem{yu2015}
+Y.~Hang et~al.
+\newblock {\em {Forwarding Schemes for EM-based Wireless Nanosensor Networks in
+  the Terahertz Band}}.
+\newblock In {Proc. of the 2$^{nd}$ Annual Int. Conf. on Nanoscale Computing
+  and Comm.}, pages {1--6}, {2015}.
+\newblock \url{https://doi.org/10.1145/2800795.2800799}.
+
+\bibitem{he2006}
+T.~He et~al.
+\newblock {\em {VigilNet: An Integrated Sensor Network System for
+  Energy-efficient Surveillance}}.
+\newblock {ACM Transactions on Sensor Networks (TOSN)}, {2}({1}):{1--38},
+  {2006}.
+\newblock \url{http://doi.acm.org/10.1145/1138127.1138128}.
+
+\bibitem{heinzelman2000}
+W.~R. Heinzelman et~al.
+\newblock {\em {Energy-efficient communication protocol for wireless
+  microsensor networks}}.
+\newblock In {Proceedings of the 33$^{rd}$ Annual Hawaii International
+  Conference on System Sciences}, pages {1--10}, {2000}.
+\newblock \url{http://dx.doi.org/10.1109/HICSS.2000.926982}.
+
+\bibitem{hofner2012}
+P.~H{\"o}fner et~al.
+\newblock {\em {A Rigorous Analysis of AODV and Its Variants}}.
+\newblock In {Proceedings of the 15$^{th}$ ACM International Conference on
+  Modeling, Analysis and Simulation of Wireless and Mobile Systems}, pages
+  {203--212}, {2012}.
+\newblock \url{http://doi.acm.org/10.1145/2387238.2387274}.
+
+\bibitem{hu2006}
+L.~Hu et~al.
+\newblock {\em {Fuzzy adaptive power control based on PID algorithm for
+  clusterheads of wireless sensor networks}}.
+\newblock In {2006 IET International Conference on Wireless, Mobile and
+  Multimedia Networks}, pages {1--4}, {2006}.
+\newblock \url{https://ieeexplore.ieee.org/document/5195473/}.
+
+\bibitem{hurni2008}
+P.~Hurni and T.~Braun.
+\newblock {\em {Energy-Efficient Multi-path Routing in Wireless Sensor
+  Networks}}.
+\newblock In {Proceedings of the 7$^{th}$ International Conference on Ad-hoc,
+  Mobile and Wireless Networks}, pages {72--85}, {2008}.
+\newblock \url{http://dx.doi.org/10.1007/978-3-540-85209-4_6}.
+
+\bibitem{ieee-1906}
+IEEE.
+\newblock {\em {IEEE 1906.1-2015 - IEEE Recommended Practice for Nanoscale and
+  Molecular Communication Framework}}.
+\newblock \url{https://standards.ieee.org/standard/1906_1-2015.html}, accessed
+  4-October-2018.
+
+\bibitem{ieee802}
+IEEE.
+\newblock {\em {IEEE Standard for Information Technology - Telecommunications
+  and information exchange between systems - Local and Metropolitan networks -
+  Specific requirements - Part 11: Wireless LAN Medium Access Control (MAC) and
+  Physical Layer (PHY) specifications: Higher Speed Physical Layer (PHY)
+  Extension in the 2.4 GHz band}}.
+\newblock {IEEE Std 802.11b-1999}, pages {1--96}, {2000}.
+\newblock \url{http://dx.doi.org/10.1109/IEEESTD.2000.90914}.
+
+\bibitem{ieee2013}
+IEEE.
+\newblock {\em {IEEE Standard for Definitions of Terms for Antennas}}.
+\newblock {IEEE Std 145-2013 (Revision of IEEE Std 145-1993)}, {2014}.
+\newblock \url{https://doi.org/10.1109/IEEESTD.2014.6758443}.
+
+\bibitem{imran2012}
+M.~Imran et~al.
+\newblock {\em Localized motion-based connectivity restoration algorithms for
+  wireless sensor and actor networks}.
+\newblock Journal of Network and Computer App., 35(2):844--856, 2012.
+\newblock \url{https://doi.org/10.1016/j.jnca.2011.12.002}.
+
+\bibitem{intanagonwiwat2003}
+C.~Intanagonwiwat et~al.
+\newblock {\em {Directed Diffusion for Wireless Sensor Networking}}.
+\newblock {IEEE/ACM Trans. Netw.}, 11(1):2--16, 2003.
+\newblock \url{https://doi.org/10.1109/TNET.2002.808417}.
+
+\bibitem{james1989}
+J.~R. James and P.~S. Hall.
+\newblock {\em {Handbook of microstrip antennas, Volume 1}}.
+\newblock {IEE electromagnetic waves series}. {Peter Peregrinus on behalf of
+  the Institution of Electrical Engineers}, {1989}.
+
+\bibitem{jamshed2018}
+M.~A. Jamshed et~al.
+\newblock {\em {Energy optimized routing with directional antennas and tagging
+  for multimedia sensor networks}}.
+\newblock In {2018 International Conference on Computing, Mathematics and
+  Engineering Technologies (iCoMET)}, pages {1--5}, {2018}.
+\newblock \url{https://doi.org/10.1109/ICOMET.2018.8346446}.
+
+\bibitem{jhaveri2015}
+R.~Jhaveri.
+\newblock {\em {Mobile ad-hoc networking with AODV: A review}}.
+\newblock {International Journal of Next-Generation Computing},
+  {6}({3}):{165--191}, {2015}.
+
+\bibitem{jindal2018}
+V.~Jindal.
+\newblock {\em {History and Architecture of Wireless Sensor Networks for
+  Ubiquitous Computing}}.
+\newblock {International Journal of Advanced Research in Computer Engineering
+  \& Technology}, {7}({2}):{214--217}, {2018}.
+\newblock
+  \url{http://ijarcet.org/wp-content/uploads/IJARCET-VOL-7-ISSUE-2-214-217.pdf}.
+
+\bibitem{johnson2001}
+D.~B. Johnson et~al.
+\newblock {\em {DSR: The Dynamic Source Routing Protocol for Multihop Wireless
+  Ad Hoc Networks}}.
+\newblock In {Ad Hoc Networking}, pages {139--172}. {Addison-Wesley Longman
+  Publishing Co., Inc.}, {2001}.
+\newblock \url{http://dl.acm.org/citation.cfm?id=374547.374552}.
+
+\bibitem{jornet2013-phd}
+J.~M. Jornet.
+\newblock {\em {Fundamentals Of Electromagnetic Nanonetworks In The Terahertz
+  Band}}.
+\newblock PhD thesis, {School of Electrical and Computer Eng., Georgia
+  Institute of Technology}, {USA}, December 2013.
+\newblock
+  \url{https://smartech.gatech.edu/bitstream/handle/1853/50233/JORNETMONTANA-DISSERTATION-2013.pdf}.
+
+\bibitem{jornet2010}
+J.~M. Jornet and I.~F. Akyildiz.
+\newblock {\em {Graphene-based nano-antennas for electromagnetic
+  nanocommunications in the terahertz band}}.
+\newblock In {Proceedings of the 4$^{th}$ European Conference on Antennas and
+  Propagation}, pages {1--5}, {2010}.
+\newblock \url{https://ieeexplore.ieee.org/document/5505569}.
+
+\bibitem{jornet2013}
+J.~M. Jornet and I.~F. Akyildiz.
+\newblock {\em {Graphene-based Plasmonic Nano-Antenna for Terahertz Band
+  Communication in Nanonetworks}}.
+\newblock {IEEE Journal on Selected Areas in Comm.}, 31(12):685--694, 2013.
+\newblock \url{https://doi.org/10.1109/JSAC.2013.SUP2.1213001}.
+
+\bibitem{karp2000}
+B.~Karp and H.~T. Kung.
+\newblock {\em {GPSR: Greedy Perimeter Stateless Routing for Wireless
+  Networks}}.
+\newblock In {Proceedings of the 6$^{th}$ Annual International Conference on
+  Mobile Computing and Networking}, pages {243--254}, {2000}.
+\newblock \url{http://doi.acm.org/10.1145/345910.345953}.
+
+\bibitem{kaur2012}
+G.~Kaur and R.~M. Garg.
+\newblock {\em {Energy Efficient Topologies For Wireless Sensor Networks}}.
+\newblock {International Journal of Distributed and Parallel Systems (IJDPS)},
+  {3}({5}):{179--192}, {2012}.
+\newblock \url{http://airccse.org/journal/ijdps/papers/3512ijdps16.pdf}.
+
+\bibitem{khaleel2012}
+A.~D. Khaleel.
+\newblock {\em {Design Tri-Band Single And Dual Patch Array Antenna With Band
+  Suppression}}.
+\newblock Master's thesis, {Department of Electrical Engineering, College Of
+  Graduate Studies, Universiti Tenaga Nasional}, Malaysia, December 2012.
+\newblock \url{https://doi.org/10.13140/RG.2.1.1260.4329}.
+
+\bibitem{khan2012}
+A.~Khan and R.~Nema.
+\newblock {\em {Analysis of Five Different Dielectric Substrates on Microstrip
+  Patch Antenna}}.
+\newblock {International Journal of Computer Applications}, {55}({18}):{6--12},
+  {2012}.
+\newblock
+  \url{http://research.ijcaonline.org/volume55/number18/pxc3881915.pdf}.
+
+\bibitem{khan2015}
+J.~A. Khan et~al.
+\newblock {\em {Energy management in Wireless Sensor Networks: A survey}}.
+\newblock {Computers \& Electrical Engineering}, {41}:{159--176}, {2015}.
+\newblock \url{https://doi.org/10.1016/j.compeleceng.2014.06.009}.
+
+\bibitem{knight2008}
+C.~Knight et~al.
+\newblock {\em {Energy Options for Wireless Sensor Nodes}}.
+\newblock {Sensors}, {8}({12}):{8037--8066}, {2008}.
+\newblock {\url{http://www.mdpi.com/1424-8220/8/12/8037}}.
+
+\bibitem{ko2000}
+Y.-B. Ko et~al.
+\newblock {\em {Medium access control protocols using directional antennas in
+  ad hoc networks}}.
+\newblock In {Proceedings IEEE INFOCOM 2000. Conference on Computer
+  Communications. 19$^{th}$ Annual Joint Conference of the IEEE Computer and
+  Communications Societies (Cat. No.00CH37064)}, volume~{1}, pages {13--21},
+  {2000}.
+\newblock \url{http://dx.doi.org/10.1109/INFCOM.2000.832169}.
+
+\bibitem{kolar2004}
+V.~Kolar.
+\newblock {\em {Challenges In Directional Antennas}}.
+\newblock Master's thesis, {Dept. of Computer Science, Graduate School of
+  Binghamton University}, {USA}, 2004.
+\newblock
+  \url{http://www.cs.binghamton.edu/~vinkolar/pubs/kolarMastersThesis.pdf}.
+
+\bibitem{kolar2004-2}
+V.~Kolar et~al.
+\newblock {\em {Avoiding Head of Line Blocking in Directional Antenna}}.
+\newblock In {29$^{th}$ Annual IEEE International Conference on Local Computer
+  Networks}, pages {385--392}, {2004}.
+\newblock \url{http://dx.doi.org/10.1109/LCN.2004.30}.
+
+\bibitem{korakis2003}
+T.~Korakis et~al.
+\newblock {\em {A MAC Protocol for Full Exploitation of Directional Antennas in
+  Ad-hoc Wireless Networks}}.
+\newblock In {Proceedings of the 4$^{th}$ ACM International Symposium on Mobile
+  Ad Hoc Networking \& Computing}, {MobiHoc '03}, pages {98--107}, {2003}.
+\newblock \url{http://doi.acm.org/10.1145/778415.778428}.
+
+\bibitem{kranakis2012}
+E.~Kranakis.
+\newblock {\em {Algorithmics of Directional Antennae}}.
+\newblock {Presentation slides from ADHOCNOW 2012, Belgrade, July-09-2011}.
+\newblock
+  {\url{http://people.scs.carleton.ca/~kranakis/conferences/talks/talk-adhocnow.pdf}}.
+
+\bibitem{lee2001}
+S.~Lee and M.~Gerla.
+\newblock {\em {Split multipath routing with maximally disjoint paths in ad hoc
+  networks}}.
+\newblock In {ICC 2001. IEEE International Conference on Communications.
+  Conference Record (Cat. No.01CH37240)}, volume~{10}, pages {3201--3205},
+  {2001}.
+\newblock \url{http://dx.doi.org/10.1109/ICC.2001.937262}.
+
+\bibitem{li2015}
+S.~Li et~al.
+\newblock {\em {The internet of things: A Survey}}.
+\newblock {Information Systems Frontiers}, {17}({2}):{243--259}, {2015}.
+\newblock \url{https://doi.org/10.1007/s10796-014-9492-7}.
+
+\bibitem{xli2015}
+X.~Li et~al.
+\newblock {\em {On modeling eavesdropping attacks in wireless networks}}.
+\newblock {Journal of Computational Science}, {11}:{196--204}, {2015}.
+\newblock \url{https://doi.org/10.1016/j.jocs.2014.10.006}.
+
+\bibitem{liaskos2016}
+C.~Liaskos et~al.
+\newblock {\em {A deployable routing system for nanonetworks}}.
+\newblock In {IEEE Int. Conf. on Comm. (ICC) 2016}, pages {1--6}, {2016}.
+\newblock \url{https://doi.org/10.1109/ICC.2016.7511151}.
+
+\bibitem{lin1997}
+C.~R. Lin and M.~Gerla.
+\newblock {\em {Adaptive clustering for mobile wireless networks}}.
+\newblock {IEEE Journal on Selected Areas in Communications},
+  {15}({7}):{1265--1275}, {1997}.
+\newblock \url{https://doi.org/10.1109/49.622910}.
+
+\bibitem{liu2012}
+H.~Liu et~al.
+\newblock {\em {Electrically Small and Low Cost Smart Antenna for Wireless
+  Communication}}.
+\newblock {IEEE Transactions on Antennas and Propagation},
+  {60}({3}):{1540--1549}, {2012}.
+\newblock \url{http://dx.doi.org/10.1109/TAP.2011.2180300}.
+
+\bibitem{loh2014}
+T.~Loh et~al.
+\newblock {\em {Assessment of the adaptive routing performance of a Wireless
+  Sensor Network using smart antennas}}.
+\newblock {IET Wireless Sensor Systems}, {4}({4}):{196--205}, {2014}.
+\newblock \url{http://dx.doi.org/10.1049/iet-wss.2014.0066}.
+
+\bibitem{ma2005}
+C.~Ma and Y.~Yang.
+\newblock {\em {Battery-aware routing for streaming data transmissions in
+  wireless sensor networks}}.
+\newblock In {2$^{nd}$ International Conference on Broadband Networks, 2005.},
+  pages {464--473}, {2005}.
+\newblock \url{http://dx.doi.org/10.1109/ICBN.2005.1589650}.
+
+\bibitem{marina2001}
+M.~K. Marina and S.~R. Das.
+\newblock {\em {On-demand multipath distance vector routing in ad hoc
+  networks}}.
+\newblock In {Proceedings 9$^{th}$ International Conference on Network
+  Protocols. ICNP 2001}, pages {14--23}, {2001}.
+\newblock \url{http://dx.doi.org/10.1109/ICNP.2001.992756}.
+
+\bibitem{mottola2013}
+L.~Mottola et~al.
+\newblock {\em {Electronically-switched directional antennas for wireless
+  sensor networks: A full-stack evaluation}}.
+\newblock In {2013 IEEE International Conference on Sensing, Communications and
+  Networking (SECON)}, pages {176--184}, {2013}.
+\newblock \url{http://dx.doi.org/10.1109/SAHCN.2013.6644976}.
+
+\bibitem{fabian2009}
+F.~Nack.
+\newblock {\em {An Overview on Wireless Sensor Networks}}.
+\newblock Technical report, {Institute of Computer Science (ICS), Freie
+  Universität Berlin}, 2009.
+\newblock
+  {\url{http://www.mi.fu-berlin.de/inf/groups/ag-tech/teaching/2008-09_WS/S_19565_Proseminar_Technische_Informatik/nack09verview.pdf},
+  Online; accessed 20-August-2018.}
+
+\bibitem{nagaraju2014}
+S.~Nagaraju et~al.
+\newblock {\em {Performance analysis of rectangular, triangular and E-shaped
+  microstrip patch antenna arrays for wireless sensor networks}}.
+\newblock In {2014 International Conference on Computer and Communication
+  Technology (ICCCT)}, pages {211--215}, {2014}.
+\newblock \url{http://dx.doi.org/10.1109/ICCCT.2014.7001494}.
+
+\bibitem{nayak2017}
+P.~Nayak and B.~Vathasavai.
+\newblock {\em {Genetic algorithm based clustering approach for wireless sensor
+  network to optimize routing techniques}}.
+\newblock In {2017 7$^{th}$ International Conference on Cloud Computing, Data
+  Science Engineering - Confluence}, pages {373--380}, {2017}.
+\newblock \url{http://dx.doi.org/10.1109/CONFLUENCE.2017.7943178}.
+
+\bibitem{ndie2012}
+T.~Ndie and J.~Noutat.
+\newblock {\em {Problem of Standardization of Configuration Data in Wireless
+  Sensor Networks: The Case of Routing Protocols}}.
+\newblock {Wireless Sensor Network}, {4}({7}):{177--184}, {2012}.
+\newblock \url{https://doi.org/10.4236/wsn.2012.47026}.
+
+\bibitem{neupane2014}
+S.~R. Neupane.
+\newblock {\em {Routing in Resource Constrained Sensor Nanonetworks}}.
+\newblock Master's thesis, {Tampere University of Technology}, Finland, June
+  2014.
+\newblock \url{https://dspace.cc.tut.fi/dpub/handle/123456789/22494}.
+
+\bibitem{nguyen2017}
+M.~T. Nguyen and K.~A. Teague.
+\newblock {\em Compressive sensing based random walk routing in wireless sensor
+  networks}.
+\newblock {Ad Hoc Networks}, 54(Supplement C):99--110, 2017.
+\newblock \url{https://doi.org/10.1016/j.adhoc.2016.10.009}.
+
+\bibitem{nilsson2009}
+M.~Nilsson.
+\newblock {\em {Directional Antennas for Wireless Sensor Networks}}.
+\newblock In {Proceedings of the 9$^{th}$ Scandinavian Workshop on Wireless
+  Adhoc Networks (Adhoc 09)}, {2009}.
+
+\bibitem{nilsson2010}
+M.~Nilsson.
+\newblock {\em {SPIDA: A Direction-Finding Antenna for Wireless Sensor
+  Networks}}.
+\newblock In {Real-World Wireless Sensor Networks}, pages {138--145}. {Springer
+  Berlin Heidelberg}, {2010}.
+
+\bibitem{ONworld2017}
+{ON World Inc.}
+\newblock {\em {Industrial Wireless Sensor Networks - Executive Summary}}.
+\newblock Technical report, {ON World Inc.}, 2017.
+\newblock
+  {\url{https://onworld.com/smartindustries/execsum/IndustrialWSNQ117ExecSum.pdf},
+  Online; accessed 9-August-2018.}
+
+\bibitem{oteafy2012}
+S.~M.~A. Oteafy et~al.
+\newblock {\em {Pruned Adaptive Routing in the Heterogeneous Internet of
+  Things}}.
+\newblock In {2012 IEEE Global Comm. Conf. (GLOBECOM)}, pages {214--219},
+  {2012}.
+\newblock \url{https://doi.org/10.1109/GLOCOM.2012.6503115}.
+
+\bibitem{panatik2016}
+K.~Z. Panatik et~al.
+\newblock {\em {Energy harvesting in wireless sensor networks: A survey}}.
+\newblock In {2016 IEEE 3$^{rd}$ International Symposium on Telecommunication
+  Technologies (ISTT)}, pages {53--58}, {2016}.
+\newblock \url{https://doi.org/10.1109/ISTT.2016.7918084}.
+
+\bibitem{pantazis2013}
+N.~A. Pantazis et~al.
+\newblock {\em {Energy-Efficient Routing Protocols in Wireless Sensor Networks:
+  A Survey}}.
+\newblock {IEEE Communications Surveys Tutorials}, {15}({2}):{551--591},
+  {2013}.
+\newblock \url{http://dx.doi.org/10.1109/SURV.2012.062612.00084}.
+
+\bibitem{RFC3561}
+C.~Perkins et~al.
+\newblock {\em {Ad hoc On-Demand Distance Vector (AODV) Routing}}.
+\newblock {RFC} {3561}, {RFC Editor}, {2003}.
+\newblock {\url{http://www.rfc-editor.org/rfc/rfc3561.txt}}.
+
+\bibitem{perkins1994}
+C.~E. Perkins and P.~Bhagwat.
+\newblock {\em {Highly Dynamic Destination-Sequenced Distance-Vector Routing
+  (DSDV) for Mobile Computers}}.
+\newblock {SIGCOMM Comput. Commun. Rev.}, {24}({4}):{234--244}, {1994}.
+\newblock \url{http://doi.acm.org/10.1145/190809.190336}.
+
+\bibitem{pierobon2014}
+M.~Pierobon et~al.
+\newblock {\em {A routing framework for energy harvesting wireless nanosensor
+  networks in the Terahertz Band}}.
+\newblock {Wireless Networks}, {20}({5}):{1169--1183}, {2014}.
+\newblock \url{https://doi.org/10.1007/s11276-013-0665-y}.
+
+\bibitem{piroNS32013}
+G.~Piro et~al.
+\newblock {\em {Nano-Sim: simulating electromagnetic-based nanonetworks in the
+  Network Simulator 3}}.
+\newblock In {Proceedings of the 6$^{th}$ International ICST Conference on
+  Simulation Tools and Techniques}, pages {203--210}, {2013}.
+\newblock \url{http://dl.acm.org/citation.cfm?id=2512734.2512762}.
+
+\bibitem{piroPA2013}
+G.~Piro et~al.
+\newblock {\em {Simulating Wireless Nano Sensor Networks in the NS-3
+  platform}}.
+\newblock In {2013 27$^{th}$ International Conference on Advanced Information
+  Networking and Applications Workshops}, pages {67--74}, {2013}.
+\newblock \url{https://doi.org/10.1109/WAINA.2013.20}.
+
+\bibitem{pitchai2015}
+M.~K. Pitchai.
+\newblock {\em {Energy Efficient Routing In Wireless Sensor Networks}}.
+\newblock PhD thesis, {Faculty Of Information And Communication Engineering
+  Anna University}, {India}, April 2015.
+\newblock \url{http://hdl.handle.net/10603/140758}.
+
+\bibitem{polastre2004}
+J.~Polastre et~al.
+\newblock {\em {Versatile Low Power Media Access for Wireless Sensor
+  Networks}}.
+\newblock In {Proceedings of the 2$^{nd}$ International Conference on Embedded
+  Networked Sensor Systems}, {SenSys '04}, pages {95--107}, {2004}.
+\newblock \url{http://doi.acm.org/10.1145/1031495.1031508}.
+
+\bibitem{polastre2005}
+J.~Polastre et~al.
+\newblock {\em {Telos: enabling ultra-low power wireless research}}.
+\newblock In {IPSN 2005. 4$^{th}$ International Symposium on Information
+  Processing in Sensor Networks, 2005.}, pages {364--369}, {2005}.
+\newblock \url{https://doi.org/10.1109/IPSN.2005.1440950}.
+
+\bibitem{pozar2011}
+D.~M. Pozar.
+\newblock {\em {Microwave Engineering, 4$^{th}$ ed.}}
+\newblock {Wiley}, {2011}.
+
+\bibitem{rabaey2000}
+J.~M. Rabaey et~al.
+\newblock {\em {PicoRadio supports ad hoc ultra-low power wireless
+  networking}}.
+\newblock {Computer}, {33}({7}):{42--48}, {2000}.
+\newblock \url{https://doi.org/10.1109/2.869369}.
+
+\bibitem{rajendran2006}
+V.~Rajendran et~al.
+\newblock {\em {Energy-Efficient, Collision-Free Medium Access Control for
+  Wireless Sensor Networks}}.
+\newblock {Wireless Networks}, {12}({1}):{63--78}, {2006}.
+\newblock \url{https://doi.org/10.1007/s11276-006-6151-z}.
+
+\bibitem{ramanathan1996}
+S.~Ramanathan and M.~Steenstrup.
+\newblock {\em {A survey of routing techniques for mobile communications
+  networks}}.
+\newblock {Mobile Networks and Applications}, {1}({2}):{89--104}, {1996}.
+\newblock \url{https://doi.org/10.1007/BF01193330}.
+
+\bibitem{rault2014}
+T.~Rault et~al.
+\newblock {\em {Energy efficiency in wireless sensor networks: A top-down
+  survey}}.
+\newblock {Computer Networks}, {67}:{104--122}, {2014}.
+\newblock \url{https://doi.org/10.1016/j.comnet.2014.03.027}.
+
+\bibitem{reddy2012}
+M.~M. Reddy et~al.
+\newblock {\em {Solving the Hidden Terminal problems Using Directional-Antenna
+  Based MAC Protocol for Wireless Adhoc Networks}}.
+\newblock {International Journal of Scientific and Research Publications},
+  {2}({12}):{1--6}, {2012}.
+\newblock \url{http://www.ijsrp.org/research-paper-1212/ijsrp-p1266.pdf}.
+
+\bibitem{regalado2014}
+A.~Regalado.
+\newblock {\em {Business Adapts to a New Style of Computer}}.
+\newblock {MIT Technology Review Bussiness Report - The Internet of Things},
+  {July/August}:{1--2}, 2014.
+\newblock
+  {\url{https://dspace.mit.edu/bitstream/handle/1721.1/86935/MIT-Technology-Review-Business-Report-The-Internet-of-Things.pdf?sequence=14},
+  Online; accessed 24-August-2018.}
+
+\bibitem{rodoplu1999}
+V.~Rodoplu and T.~H. Meng.
+\newblock {\em {Minimum energy mobile wireless networks}}.
+\newblock {IEEE Journal on Selected Areas in Communications},
+  {17}({8}):{1333--1344}, {1999}.
+\newblock \url{http://dx.doi.org/10.1109/49.779917}.
+
+\bibitem{rostami2018}
+A.~S. Rostami et~al.
+\newblock {\em {Survey on clustering in heterogeneous and homogeneous wireless
+  sensor networks}}.
+\newblock {The Journal of Supercomputing}, {74}({1}):{277--323}, {2018}.
+\newblock \url{https://doi.org/10.1007/s11227-017-2128-1}.
+
+\bibitem{sah2018}
+D.~K. Sah and T.~Amgoth.
+\newblock {\em {Parametric survey on cross-layer designs for wireless sensor
+  networks}}.
+\newblock {Computer Science Review}, {27}:{112--134}, {2018}.
+\newblock \url{https://doi.org/10.1016/j.cosrev.2017.12.002}.
+
+\bibitem{sarkar2016}
+A.~Sarkar and T.~Senthil~Murugan.
+\newblock {\em {Routing protocols for wireless sensor networks: What the
+  literature says?}}
+\newblock {Alexandria Engineering Journal}, {55}({4}):{3173--3183}, {2016}.
+\newblock \url{http://dx.doi.org/10.1016/j.aej.2016.08.003}.
+
+\bibitem{sekido2005}
+M.~Sekido et~al.
+\newblock {\em {A Directional Hidden Terminal Problem in Ad hoc Network MAC
+  Protocols with Smart Antennas and its Solutions}}.
+\newblock In {GLOBECOM '05. IEEE Global Telecommunications Conference, 2005.},
+  pages {2579--2583}, {2005}.
+\newblock \url{http://dx.doi.org/10.1109/GLOCOM.2005.1578227}.
+
+\bibitem{senel2011}
+F.~Senel et~al.
+\newblock {\em {Bio-Inspired Relay Node Placement Heuristics for Repairing
+  Damaged Wireless Sensor Networks}}.
+\newblock {IEEE Trans. on Vehicular Technology}, 60(4):1835--1848, 2011.
+\newblock \url{https://doi.org/10.1109/TVT.2011.2131158}.
+
+\bibitem{shaikh2016}
+F.~K. Shaikh and S.~Zeadally.
+\newblock {\em {Energy harvesting in wireless sensor networks: A comprehensive
+  review}}.
+\newblock {Renewable and Sustainable Energy Reviews}, {55}:{1041--1054},
+  {2016}.
+\newblock \url{https://doi.org/10.1016/j.rser.2015.11.010}.
+
+\bibitem{sharma2016}
+A.~K. Sharma.
+\newblock {\em {Design Modeling and Development of Microstrip Patch Antennas}}.
+\newblock PhD thesis, {University School Of Information And Communication
+  Technology, Guru Gobind Singh Indraprastha University}, {India}, {2016}.
+\newblock \url{http://hdl.handle.net/10603/184826}.
+
+\bibitem{shelby2010}
+Z.~Shelby and C.~Bormann.
+\newblock {\em {6LoWPAN: The Wireless Embedded Internet}}.
+\newblock {John Wiley \& Sons, Inc.}, {2010}.
+
+\bibitem{shi2017}
+G.~Shi and K.~Li.
+\newblock {\em {Fundamentals of ZigBee and WiFi. In: Signal Interference in
+  WiFi and ZigBee Networks. Wireless Networks}}.
+\newblock {Springer International Publishing}, {2017}.
+
+\bibitem{shnayder2004}
+V.~Shnayder et~al.
+\newblock {\em {Simulating the Power Consumption of Large-scale Sensor Network
+  Applications}}.
+\newblock In {Proceedings of the 2$^{nd}$ International Conference on Embedded
+  Networked Sensor Systems}, pages {188--200}, {2004}.
+\newblock \url{https://doi.org/10.1145/1031495.1031518}.
+
+\bibitem{shrestha2013}
+S.~Shrestha et~al.
+\newblock {\em {Design of modified Sierpinski fractal based miniaturized patch
+  antenna}}.
+\newblock In {The International Conference on Information Networking 2013
+  (ICOIN)}, pages {274--279}, {2013}.
+\newblock \url{http://dx.doi.org/10.1109/ICOIN.2013.6496389}.
+
+\bibitem{singh1998}
+S.~Singh et~al.
+\newblock {\em {Power-aware Routing in Mobile Ad Hoc Networks}}.
+\newblock In {Proceedings of the 4$^{th}$ Annual ACM/IEEE International
+  Conference on Mobile Computing and Networking}, {MobiCom '98}, pages
+  {181--190}, {1998}.
+\newblock \url{http://doi.acm.org/10.1145/288235.288286}.
+
+\bibitem{singh2017}
+S.~K. Singh et~al.
+\newblock {\em {A Survey on Successors of LEACH Protocol}}.
+\newblock {IEEE Access}, {5}:{4298--4328}, {2017}.
+\newblock \url{http://dx.doi.org/110.1109/ACCESS.2017.2666082}.
+
+\bibitem{aelita2012}
+A.~Skaržauskienė and M.~Kalinauskas.
+\newblock {\em {The Future Potential of Internet of Things}}.
+\newblock {Social Technologies}, {2}({1}):{102--113}, {2012}.
+\newblock
+  \url{http://www.mruni.eu/en/mokslo_darbai/st/paskutinis_numeris/dwn.php?id=326547}.
+
+\bibitem{sohraby2007}
+K.~Sohraby et~al.
+\newblock {\em {Wireless Sensor Networks: Technology, Protocols, and
+  Applications}}.
+\newblock {Wiley-Interscience}, {2007}.
+
+\bibitem{sterbenz2011}
+J.~P.~G. Sterbenz.
+\newblock {\em {Mobile Wireless Networking}}.
+\newblock {Lecture from The University of Kansas, Department of Electrical
+  Engineering and Computer Science}.
+\newblock
+  {\url{http://www.ittc.ku.edu/~jpgs/courses/mwnets/lecture-energy-display.pdf}}.
+
+\bibitem{stoj2000}
+I.~Stojmenovic and X.~Lin.
+\newblock {\em {Power-aware localized routing in wireless networks}}.
+\newblock In {Proceedings 14$^{th}$ International Parallel and Distributed
+  Processing Symposium. IPDPS 2000}, pages {371--376}, {2000}.
+\newblock \url{http://dx.doi.org/10.1109/IPDPS.2000.846008}.
+
+\bibitem{stoj2001}
+I.~Stojmenovic and X.~Lin.
+\newblock {\em {Power-aware localized routing in wireless networks}}.
+\newblock {IEEE Transactions on Parallel and Distributed Systems},
+  {12}({11}):{1122--1133}, {2001}.
+\newblock \url{https://doi.org/10.1109/71.969123}.
+
+\bibitem{subha2013}
+C.~P. Subha et~al.
+\newblock {\em {A survey on energy efficient neural network based clustering
+  models in wireless sensor networks}}.
+\newblock In {2013 International Conference on Emerging Trends in VLSI,
+  Embedded System, Nano Electronics and Telecommunication System (ICEVENT)},
+  pages {1--6}, {2013}.
+\newblock \url{http://dx.doi.org/10.1109/ICEVENT.2013.6496545}.
+
+\bibitem{subramanian2007}
+A.~P. Subramanian and S.~R. Das.
+\newblock {\em {Addressing Deafness and Hidden Terminal Problem in Directional
+  Antenna based Wireless Multi-Hop Networks}}.
+\newblock In {2007 2$^{nd}$ International Conference on Communication Systems
+  Software and Middleware}, pages {1--6}, {2007}.
+\newblock \url{http://dx.doi.org/10.1109/COMSWA.2007.382626}.
+
+\bibitem{subramanian2010}
+A.~P. Subramanian and S.~R. Das.
+\newblock {\em {Addressing deafness and hidden terminal problem in directional
+  antenna based wireless multi-hop networks}}.
+\newblock {Wireless Networks}, {16}({6}):{1557--1567}, {2010}.
+\newblock \url{https://doi.org/10.1007/s11276-008-0138-x}.
+
+\bibitem{tairin2017}
+S.~Tairin et~al.
+\newblock {\em {Network-level performance enhancement in wireless nanosensor
+  networks through multi-layer modifications}}.
+\newblock In {2017 International Conference on Networking, Systems and Security
+  (NSysS)}, pages {75--83}, {2017}.
+\newblock \url{http://dx.doi.org/10.1109/NSysS.2017.7885805}.
+
+\bibitem{panda2010}
+Y.~K. Tan and S.~K. Panda.
+\newblock {\em {Review of Energy Harvesting Technologies for Sustainable WSN}}.
+\newblock In {Seah, W. and Tan, Y. K.}, editor, {Sustainable Wireless Sensor
+  Networks}, chapter~{2}. {IntechOpen}, {2010}.
+\newblock \url{https://doi.org/10.5772/13062}.
+
+\bibitem{tarter2016}
+G.~Tarter et~al.
+\newblock {\em {Directional Antennas for Convergecast in Wireless Sensor
+  Networks: Are They a Good Idea?}}
+\newblock In {2016 IEEE 13$^{th}$ International Conference on Mobile Ad Hoc and
+  Sensor Systems (MASS)}, pages {172--182}, {2016}.
+\newblock \url{http://dx.doi.org/10.1109/MASS.2016.031}.
+
+\bibitem{osimodel}
+{Tech-faq contributors}.
+\newblock {\em {The OSI Model – What It Is; Why It Matters; Why It Doesn’t
+  Matter - Tech-faq}}.
+\newblock {\url{http://www.tech-faq.com/osi-model.html}, online; accessed
+  13-September-2018}.
+
+\bibitem{thiele2018}
+L.~Thiele.
+\newblock {\em {Embedded Systems - Spring 2018}}.
+\newblock {Lecture from The Swiss Federal Institute of Technology, Computer
+  Engineering and Networks Laboratory, Zurich}.
+\newblock {\url{https://lectures.tik.ee.ethz.ch/es/slides/9_PowerEnergy.pdf}}.
+
+\bibitem{liaskos2015}
+A.~Tsioliaridou et~al.
+\newblock {\em {CORONA: A Coordinate and Routing System for Nanonetworks}}.
+\newblock In {Proc. of the 2$^{nd}$ Annual Int. Conf. on Nanoscale Computing
+  and Comm.}, {NANOCOM' 15}, pages {1--6}, {2015}.
+\newblock \url{https://doi.org/10.1145/2800795.2800809}.
+
+\bibitem{vinoy2002}
+K.~J. Vinoy.
+\newblock {\em {Fractal Shaped Antenna Elements for Wide and Multi-Band
+  Wireless Applications}}.
+\newblock PhD thesis, {The Graduate School College of Engineering, The
+  Pennsylvania State University}, {USA}, August 2002.
+\newblock \url{https://etda.libraries.psu.edu/files/final_submissions/3436}.
+
+\bibitem{waterhouse2003}
+R.~Waterhouse.
+\newblock {\em {Microstrip Patch Antennas: A Designer’s Guide}}.
+\newblock {Springer US}, {2003}.
+
+\bibitem{weiser1991}
+M.~Weiser.
+\newblock {\em {The Computer for the 21$^{st}$ Century}}.
+\newblock {Scientific American}, {265}({3}):{94--105}, {1991}.
+
+\bibitem{werner2000frontiers}
+D.~H. Werner and R.~Mittra.
+\newblock {\em {Frontiers in Electromagnetics}}.
+\newblock {John Wiley \& Sons, Inc.}, {2000}.
+
+\bibitem{whyte2008}
+G.~W.~M. Whyte.
+\newblock {\em {Antennas for wireless sensor network applications}}.
+\newblock PhD thesis, {Department of Electronics and Electrical Engineering,
+  Faculty of Engineering, University of Glasgow}, {UK}, 2008.
+\newblock \url{http://theses.gla.ac.uk/408/}.
+
+\bibitem{cds}
+{Wikipedia contributors}.
+\newblock {\em {Connected dominating set - Wikipedia, The Free Encyclopedia}},
+  {2017}.
+\newblock
+  {\url{https://en.wikipedia.org/w/index.php?title=Connected_dominating_set&oldid=815798163},
+  online; accessed 12-September-2018}.
+
+\bibitem{wiki-batteries}
+{Wikipedia contributors}.
+\newblock {\em {AA battery - Wikipedia, The Free Encyclopedia}}, {2018}.
+\newblock
+  {\url{https://en.wikipedia.org/w/index.php?title=AA_battery&oldid=845723499},
+  online; accessed 28-August-2018}.
+
+\bibitem{ieee-wifi}
+{Wikipedia contributors}.
+\newblock {\em {IEEE 802.11 - Wikipedia, The Free Encyclopedia}}, {2018}.
+\newblock
+  {\url{https://en.wikipedia.org/w/index.php?title=IEEE_802.11&oldid=861957204},
+  online; accessed 2-October-2018}.
+
+\bibitem{sierpinski}
+{Wikipedia contributors}.
+\newblock {\em {Sierpinski carpet - Wikipedia, The Free Encyclopedia}}, {2018}.
+\newblock
+  {\url{https://en.wikipedia.org/w/index.php?title=Sierpinski_carpet&oldid=854529505},
+  online; accessed 29-September-2018}.
+
+\bibitem{winters2006}
+J.~H. Winters.
+\newblock {\em {Smart antenna techniques and their application to wireless ad
+  hoc networks}}.
+\newblock {IEEE Wireless Communications}, {13}({4}):{77--83}, {2006}.
+\newblock \url{https://doi.org/10.1109/MWC.2006.1678168}.
+
+\bibitem{wong2015}
+D.~T.~C. Wong et~al.
+\newblock {\em {Directional Medium Access Control (MAC) Protocols in Wireless
+  Ad Hoc and Sensor Networks: A Survey}}.
+\newblock {Journal of Sensor and Actuator Networks}, {4}({2}):{67--153},
+  {2015}.
+\newblock \url{https://doi.org/10.3390/jsan4020067}.
+
+\bibitem{xu2017}
+L.~Xu et~al.
+\newblock {\em {A Survey of Clustering Techniques in WSNs and Consideration of
+  the Challenges of Applying Such to 5G IoT Scenarios}}.
+\newblock {IEEE Internet of Things Journal}, {4}({5}):{1229--1249}, {2017}.
+\newblock \url{https://doi.org/10.1109/JIOT.2017.2726014}.
+
+\bibitem{yang2014}
+G.~Z. Yang, editor.
+\newblock {\em {Body Sensor Networks, 2$^{nd}$ ed.}}
+\newblock {Springer}, {2014}.
+
+\bibitem{ye2003}
+Z.~Ye et~al.
+\newblock {\em {A framework for reliable routing in mobile ad hoc networks}}.
+\newblock In {IEEE INFOCOM 2003. 22$^{nd}$ Annual Joint Conference of the IEEE
+  Computer and Communications Societies (IEEE Cat. No.03CH37428)}, volume~{1},
+  pages {270--280}, {2003}.
+\newblock \url{http://dx.doi.org/10.1109/INFCOM.2003.1208679}.
+
+\bibitem{yi2003}
+S.~Yi et~al.
+\newblock {\em {On the capacity improvement of ad hoc wireless networks using
+  directional antennas}}.
+\newblock In {Proceedings of the 4$^{th}$ ACM international symposium on Mobile
+  ad hoc networking \& computing - MobiHoc '03}, {SIGMETRICS '08}, pages
+  {108--116}, {2003}.
+\newblock \url{http://dx.doi.org/10.1145/778415.778429}.
+
+\bibitem{young2008}
+J.~K. Young.
+\newblock {\em A Practical Guide to Battery Technologies for Wireless Sensor
+  Networking}.
+\newblock Sensors Magazine, Online Article.
+\newblock
+  {\url{https://www.sensorsmag.com/components/a-practical-guide-to-battery-technologies-for-wireless-sensor-networking},
+  online; accessed: 28-August-2018}.
+
+\bibitem{zhao2003}
+F.~Zhao et~al.
+\newblock {\em {Collaborative signal and information processing: an
+  information-directed approach}}.
+\newblock {Proceedings of the IEEE}, {91}({8}):{1199--1209}, {2003}.
+\newblock \url{https://doi.org/10.1109/JPROC.2003.814921}.
+
+\bibitem{zhou2012}
+R.~Zhou et~al.
+\newblock {\em {Buddy Routing: A Routing Paradigm for NanoNets Based on
+  Physical Layer Network Coding}}.
+\newblock In {2012 21$^{st}$ Int. Conf. on Computer Comm. and Networks
+  (ICCCN)}, pages {1--7}, {2012}.
+\newblock \url{https://doi.org/10.1109/ICCCN.2012.6289272}.
+
+\bibitem{zhu2006}
+C.~Zhu et~al.
+\newblock {\em {Enhancing 802.11 Wireless Networks with Directional Antenna and
+  Multiple Receivers}}.
+\newblock In {MILCOM 2006 - 2006 IEEE Military Communications conference},
+  pages {1--8}, {2006}.
+\newblock \url{http://dx.doi.org/10.1109/MILCOM.2006.302108}.
+
+\bibitem{Öström2010}
+E.~Öström.
+\newblock {\em {Building And Experimentally Evaluating A Smart Antenna For Low
+  Power Wireless Communication}}.
+\newblock Master's thesis, {Mälardalen University}, Sweden, May 2010.
+\newblock
+  \url{http://www.diva-portal.org/smash/get/diva2:317966/FULLTEXT01.pdf}.
+
+\end{thebibliography}

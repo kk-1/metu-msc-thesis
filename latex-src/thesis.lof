@@ -1,0 +1,125 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {turkish}{}
+\babel@toc {english}{}
+\babel@toc {turkish}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {english}{}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Evolution of the IoT and related technologies. (Source:~\cite {li2015}) \relax }}{4}{figure.caption.15}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Components of a generic Sensor Node. Dotted lines is for optional elements. (Source:~\cite {akyildiz2002}) \relax }}{6}{figure.caption.16}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Typical Wireless Sensor Node. (Source: {\url {https://www.libelium.com/downloads/documentation/waspmote_datasheet.pdf}}) \relax }}{7}{figure.caption.17}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Hierarchical Topology used in WSNs.\relax }}{9}{figure.caption.19}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Non-Hierarchical Topologies used in WSNs.\relax }}{9}{figure.caption.20}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Non-Hierarchical Topologies used in WSNs.\relax }}{10}{figure.caption.21}
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Network architecture and components for nanonetworks\relax }}{10}{figure.caption.22}
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Typical Wireless Sensor Network - WSN\relax }}{11}{figure.caption.23}
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Bottom-up Approach to the Design of Nano-networks. (Source: I. F. Akyildiz and J. M. Jornet, The Internet of nano-things~\cite {akyildiz2010-1})\relax }}{13}{figure.caption.25}
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Global installed industrial WSN devices by market segment for 2016-2021. (Source: Industrial Wireless Sensor Networks~\cite {ONworld2017})\relax }}{14}{figure.caption.26}
+\contentsline {figure}{\numberline {1.11}{\ignorespaces Breakdown of the devices connected to the Internet. (Source:~\cite {regalado2014})\relax }}{14}{figure.caption.27}
+\contentsline {figure}{\numberline {1.12}{\ignorespaces Temperature current model of an alkaline AA (E91 - 1.5V) battery. (Source:~\cite {young2008})\relax }}{16}{figure.caption.29}
+\contentsline {figure}{\numberline {1.13}{\ignorespaces Battery comparison. Because of the high internal resistance, alkaline battery performance degrades under high current draw. (Source:~\url {https://batteryuniversity.com/learn/article/primary_batteries})\relax }}{17}{figure.caption.30}
+\contentsline {figure}{\numberline {1.14}{\ignorespaces A breakdown of the power consumption of a MicaZ sensor node. (Source: p. 44 of~\cite {akyildiz2010-3})\relax }}{19}{figure.caption.32}
+\contentsline {figure}{\numberline {1.15}{\ignorespaces Picture of Mica2 sensor node. (Source:~\url {http://www.snm.ethz.ch/snmwiki/pub/uploads/Projects/mica2.jpg})\relax }}{20}{figure.caption.33}
+\contentsline {figure}{\numberline {1.16}{\ignorespaces Power consumption graph of Mica2 sensor node. (Source:~\cite {shnayder2004}\footnotemark )\relax }}{20}{figure.caption.34}
+\contentsline {figure}{\numberline {1.17}{\ignorespaces The classification of the energy efficient mechanism used in WSNs. (Source:~\cite {rault2014})\relax }}{23}{figure.caption.37}
+\contentsline {figure}{\numberline {1.18}{\ignorespaces The taxonomy of energy management schemes based on the source and the sink of the energy. (Source:~\cite {khan2015})\relax }}{24}{figure.caption.38}
+\contentsline {figure}{\numberline {1.19}{\ignorespaces Classification of the energy harvesting technologies that can be used in WSNs. (Source:~\cite {shaikh2016})\relax }}{25}{figure.caption.40}
+\contentsline {figure}{\numberline {1.20}{\ignorespaces Types of energy resources that can be used in WSNs. (Source:~\cite {akhtar2015})\relax }}{26}{figure.caption.41}
+\contentsline {figure}{\numberline {1.21}{\ignorespaces OSI and TCP layers.\relax }}{27}{figure.caption.42}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces The anchor nodes based coordinate system. (Source:~\cite {liaskos2015})\relax }}{31}{figure.caption.43}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Taxonomy of routing protocols in WSNs. (Source:~\cite {kamal2004})\relax }}{33}{figure.caption.44}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Traffic patterns specific to WSNs. (Source:~\cite {pantazis2013})\relax }}{34}{figure.caption.45}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Classification of the routing protocols for WSNs. (Source:~\cite {pantazis2013})\relax }}{35}{figure.caption.46}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces The distribution of the research on QoS parameters. (Source:~\cite {sarkar2016})\relax }}{35}{figure.caption.47}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Example WSN and its DS and CDS. (Source:~\cite {pitchai2015})\relax }}{36}{figure.caption.48}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces $sn$, $dn$ are src-neighbor and dst-neighbor respectively. \relax }}{43}{figure.caption.50}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Initial collection of entries from \csqQQ {34}routing tables\csqQQ {34} of nodes.\relax }}{46}{figure.caption.51}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \csqQQ {34}a\csqQQ {34}, having an empty routing table starts to flood. When a packet arrives to \csqQQ {34}b\csqQQ {34}, it updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}a\csqQQ {34} with cost 1, marks \csqQQ {34}a\csqQQ {34} as neighbor.\relax }}{47}{figure.caption.52}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \csqQQ {34}c\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}b\csqQQ {34} with cost 2, marks \csqQQ {34}b\csqQQ {34} as neighbor.\relax }}{47}{figure.caption.53}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \csqQQ {34}e\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}c\csqQQ {34} with cost 3, marks \csqQQ {34}c\csqQQ {34} as neighbor.\relax }}{47}{figure.caption.54}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \csqQQ {34}g\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}e\csqQQ {34} with cost 4, marks \csqQQ {34}e\csqQQ {34} as neighbor.\relax }}{48}{figure.caption.55}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \csqQQ {34}g\csqQQ {34} remembers that \csqQQ {34}a\csqQQ {34} can be reached via \csqQQ {34}e\csqQQ {34} with cost 4.\relax }}{48}{figure.caption.56}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces \csqQQ {34}d\csqQQ {34} (having received the flood packet later than \csqQQ {34}b\csqQQ {34}) updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}a\csqQQ {34} with cost 1, marks \csqQQ {34}a\csqQQ {34} as neighbor.\relax }}{48}{figure.caption.57}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces \csqQQ {34}f\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}d\csqQQ {34} with cost 2, marks \csqQQ {34}d\csqQQ {34} as neighbor.\relax }}{49}{figure.caption.58}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces \csqQQ {34}g\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}f\csqQQ {34} with cost 3, marks \csqQQ {34}f\csqQQ {34} as neighbor.\relax }}{49}{figure.caption.59}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces \csqQQ {34}a\csqQQ {34}, having an empty routing table starts to flood. When a packet arrives to \csqQQ {34}b\csqQQ {34}, it updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}3a\csqQQ {34} (a with antenna 3) with cost 1, marks \csqQQ {34}a\csqQQ {34} as neighbor.\relax }}{52}{figure.caption.60}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces \csqQQ {34}c\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}3b\csqQQ {34} with cost 2, marks \csqQQ {34}b\csqQQ {34} as neighbor.\relax }}{52}{figure.caption.61}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces \csqQQ {34}e\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}4c\csqQQ {34} with cost 3, marks \csqQQ {34}c\csqQQ {34} as neighbor.\relax }}{52}{figure.caption.62}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces \csqQQ {34}g\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}4e\csqQQ {34} with cost 4, marks \csqQQ {34}e\csqQQ {34} as neighbor.\relax }}{53}{figure.caption.63}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces \csqQQ {34}g\csqQQ {34} remembers that \csqQQ {34}a\csqQQ {34} can be reached via \csqQQ {34}4e\csqQQ {34} with cost 4.\relax }}{53}{figure.caption.64}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces \csqQQ {34}d\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}4a\csqQQ {34} with cost 1, marks \csqQQ {34}a\csqQQ {34} as neighbor.\relax }}{53}{figure.caption.65}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces \csqQQ {34}f\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}3d\csqQQ {34} with cost 2, marks \csqQQ {34}d\csqQQ {34} as neighbor.\relax }}{54}{figure.caption.66}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces \csqQQ {34}g\csqQQ {34} updates for reaching \csqQQ {34}a\csqQQ {34} via \csqQQ {34}3f\csqQQ {34} with cost 3, marks \csqQQ {34}f\csqQQ {34} as neighbor.\relax }}{54}{figure.caption.67}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces 3D bar chart for the \csqQQ {34}CHARGED\csqQQ {34} events.\relax }}{59}{figure.caption.70}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces 3D bar chart for the \csqQQ {34}DROP\csqQQ {34} events.\relax }}{60}{figure.caption.72}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces 3D bar chart for the \csqQQ {34}SEND\csqQQ {34} events.\relax }}{61}{figure.caption.74}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces 3D bar chart for the \csqQQ {34}FORWARD\csqQQ {34} events.\relax }}{62}{figure.caption.76}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Classification of antennas based on the technology utilized for directing signals. (Source:~\cite {dai2011})\relax }}{68}{figure.caption.78}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Antenna Coordinate system. (Source:~\cite {xli2015})\relax }}{71}{figure.caption.80}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Radiation patterns of isotropic (theoretical), omnidirectional (typical), and directional (typical) antennas and typical gain values. (Source:~\url {http://apprize.info/network/ccna/ccna.files/image102.jpg})\relax }}{71}{figure.caption.81}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Data rate aggregation in a MIMO antenna system compared to other systems. (Source:~\cite {bennani2016})\relax }}{73}{figure.caption.82}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Comparison of the transmission coverage of the omnidirectional and the directional antennas. (Source:~\cite [p.~308]{corderio2006})\relax }}{75}{figure.caption.84}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Comparison of the omnidirectional and directional antennas in communication. (Source:~\cite {choudhury2007})\relax }}{76}{figure.caption.85}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces HOLB problem in directional antennas. (Source:~\cite {dai2011})\relax }}{77}{figure.caption.87}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces SPIDA antenna with TMote Sky mote. (Source:~\cite {mottola2013}) \relax }}{79}{figure.caption.89}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Four-beam patch antenna (FBPA) having dimensions of 56mm x 56mm and thickness of 2.4mm. (Source:~\cite {giorgetti2007}) \relax }}{80}{figure.caption.90}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces ESPAR smart antenna with MicaZ sensor node. (Source:~\cite {loh2014}) \relax }}{81}{figure.caption.91}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces 2-by-2 microstrip patch antenna array designed in~\cite {ali2013}.\relax }}{83}{figure.caption.92}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Circularly polarized microstrip patch antenna designed in~\cite {fujimoto2015}.\relax }}{84}{figure.caption.93}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Microstrip patch antenna arrays designed in~\cite {nagaraju2014}.\relax }}{85}{figure.caption.94}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Types of slits studied in~\cite {bordoloi2013}. (a) PRMSA antenna, (b) PRMSA with double slit, (c) PRMSA with single slit near to the feed point, (d) PRMSA with single slit further from the feed point \relax }}{86}{figure.caption.96}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Inset-fed patch antenna and the first two iterations of the Sierpinski Carpet. (a) Base case, (b) The first iteration (c) The second iteration. (Source:~\cite {shrestha2013})\relax }}{87}{figure.caption.97}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Structure of a generic microstrip patch antenna. (Source:~\cite {khaleel2012})\relax }}{88}{figure.caption.99}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Various types of feeding lines for patch antennas.\relax }}{90}{figure.caption.101}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Drawing and the photo of the designed inset-fed 2-by-2 rectangular patch array with corporate feed.\relax }}{91}{figure.caption.102}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Wifi channel allocation.(Source:~\cite [p.~21]{shi2017})\relax }}{93}{figure.caption.103}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Zigbee channel allocation. (Source:~\cite [p.~12]{shi2017})\relax }}{93}{figure.caption.104}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces S11 plot from the CST simulation for the proposed antenna.\relax }}{94}{figure.caption.105}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Measured S11 plot for the proposed antenna.\relax }}{94}{figure.caption.106}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Designed antenna after tuning.\relax }}{95}{figure.caption.107}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Measured S11 plot for the tuned antenna.\relax }}{95}{figure.caption.108}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces 2D Far field plot from the CST simulation for inset-fed 2-by-2 rectangular patch array with corporate feed network.\relax }}{96}{figure.caption.109}
+\contentsline {figure}{\numberline {5.11}{\ignorespaces 3D Far field plot from the CST simulation for inset-fed 2-by-2 rectangular patch array with corporate feed network.\relax }}{96}{figure.caption.110}
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Omnidirectional (left) and directional antennas (right) used in benchmarking.\relax }}{97}{figure.caption.111}
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Measured S11 plot of the omnidirectional antenna used in benchmarking.\relax }}{97}{figure.caption.112}
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Antenna reception benchmark plots. \csqQQ {34}DirectedX\csqQQ {34} is the tuned version of the proposed directional antenna.\relax }}{99}{figure.caption.114}
+\contentsline {figure}{\numberline {5.15}{\ignorespaces Antenna transmission benchmark plots.\relax }}{100}{figure.caption.116}
+\contentsline {figure}{\numberline {5.16}{\ignorespaces Performance of transmission for the omnidirectional antenna.\relax }}{101}{figure.caption.118}
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Performance of transmission for the proposed directional antenna.\relax }}{101}{figure.caption.119}
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Performance of transmission for the tuned version of the proposed directional antenna.\relax }}{101}{figure.caption.120}
+\contentsline {figure}{\numberline {5.19}{\ignorespaces The first iteration of the \csqQQ {34}Sierpinski Carpet\csqQQ {34} fractal on the proposed antenna.\relax }}{102}{figure.caption.122}
+\contentsline {figure}{\numberline {5.20}{\ignorespaces S11 plot from the simulation for the first iteration fractal version.\relax }}{103}{figure.caption.123}
+\contentsline {figure}{\numberline {5.21}{\ignorespaces 3D gain plot for 2.4GHz for the first iteration fractal version.\relax }}{103}{figure.caption.124}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Top view of the antenna design. (Source: AntennaMagus software V2017.)\relax }}{123}{figure.caption.127}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Detailed top view of the antenna design. (Source: AntennaMagus software V2017.)\relax }}{123}{figure.caption.128}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Feeding network details of the antenna design. (Source: AntennaMagus software V2017.)\relax }}{124}{figure.caption.129}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Side view details of the antenna design. (Source: AntennaMagus software V2017.)\relax }}{124}{figure.caption.130}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {B.1}{\ignorespaces QQ plot of the data rate observations for the Omnidirectional Antenna.\relax }}{127}{figure.caption.134}
+\contentsline {figure}{\numberline {B.2}{\ignorespaces QQ plot of the data rate observations for the Directional Antenna.\relax }}{127}{figure.caption.135}
+\contentsline {figure}{\numberline {B.3}{\ignorespaces QQ plot of the data rate observations for the Directional Antenna (tuned version).\relax }}{127}{figure.caption.136}
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Density plot of the data rate observations for the Omnidirectional Antenna.\relax }}{128}{figure.caption.137}
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Density plot of the data rate observations for the Directional Antenna.\relax }}{128}{figure.caption.138}
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Density plot of the data rate observations for the Directional Antenna (tuned version).\relax }}{128}{figure.caption.139}
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Cumulative Distribution Function for the data rate observations.\relax }}{129}{figure.caption.140}
+\contentsline {figure}{\numberline {B.8}{\ignorespaces Boxplot for the data rate observations.\relax }}{129}{figure.caption.141}
+\contentsline {figure}{\numberline {B.9}{\ignorespaces Boxplot for the data rate observations with the mean line connected.\relax }}{129}{figure.caption.142}
+\contentsline {figure}{\numberline {B.10}{\ignorespaces QQ plot of the data rate observations for the Omnidirectional Antenna.\relax }}{132}{figure.caption.143}
+\contentsline {figure}{\numberline {B.11}{\ignorespaces QQ plot of the data rate observations for the Directional Antenna.\relax }}{132}{figure.caption.144}
+\contentsline {figure}{\numberline {B.12}{\ignorespaces QQ plot of the data rate observations for the Directional Antenna (tuned version).\relax }}{132}{figure.caption.145}
+\contentsline {figure}{\numberline {B.13}{\ignorespaces Density plot of the data rate observations for the Omnidirectional Antenna.\relax }}{133}{figure.caption.146}
+\contentsline {figure}{\numberline {B.14}{\ignorespaces Density plot of the data rate observations for the Directional Antenna.\relax }}{133}{figure.caption.147}
+\contentsline {figure}{\numberline {B.15}{\ignorespaces Density plot of the data rate observations for the Directional Antenna (tuned version).\relax }}{133}{figure.caption.148}
+\contentsline {figure}{\numberline {B.16}{\ignorespaces Cumulative Distribution Function for the data rate observations.\relax }}{134}{figure.caption.149}
+\contentsline {figure}{\numberline {B.17}{\ignorespaces Boxplot for the data rate observations.\relax }}{134}{figure.caption.150}
+\contentsline {figure}{\numberline {B.18}{\ignorespaces Boxplot for the data rate observations with the mean line connected.\relax }}{134}{figure.caption.151}
+\addvspace {10pt}
